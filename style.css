@@ -1,0 +1,71 @@
+/* TODO: design your profile with CSS */
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Playfair+Display:wght@700;800&display=swap');
+
+body {
+  font-family: 'Lato', sans-serif;
+  color: #022B3A;
+  background-color: rgb(225, 225, 225)
+}
+
+h1, h2 {
+  color: #1F7A8C;
+  font-family: 'Playfair Display', serif;
+}
+
+a {
+  text-decoration: none;
+  color: #1F7A8C;
+  font-weight: bold;
+}
+
+.card-white {
+  background-color: white;
+  padding: 20px 10px;
+  text-align: center;
+  width: 800px;
+  margin: 30px auto;
+  border-radius: 4px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+}
+
+.btn-teal {
+  color: white;
+  background: #1F7A8C;
+  padding: 10px 20px;
+  border-radius: 4px;
+}
+
+.btn-teal:hover {
+  color: #022B3A;
+  background-color: #029e74;
+}
+
+.margin-bottom {
+  margin-bottom: 20px;
+}
+
+img {
+  width: 228px;
+  border-radius: 50%;
+}
+
+.list-inline {
+  list-style: none;
+  padding: 0;
+}
+
+.list-inline li {
+  display: inline-block;
+}
+
+.social-icons {
+  font-size: 40px;
+  padding: 16px;
+}
+
+
+
+
+
+
+
